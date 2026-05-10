@@ -735,15 +735,8 @@ CMD ["python", "-m", "uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "
 
 ## Version & Status
 
-**Version**: 2.0.0  
-**Last Updated**: May 2026  
+**Version**: 2.0.0   
 **Status**: Production Ready 
-
----
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
