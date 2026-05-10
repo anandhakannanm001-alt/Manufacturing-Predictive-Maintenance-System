@@ -12,8 +12,7 @@
 9. [Advanced Configuration](#advanced-configuration)
 10. [Production Deployment](#production-deployment)
 11. [Version & Status](#version--status)
-12. [License](#license)
-13. [Contact](#contact)
+12. [Contact](#contact)
 
 ---
 
