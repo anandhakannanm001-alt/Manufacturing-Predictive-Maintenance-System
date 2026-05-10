@@ -12,7 +12,7 @@
 9. [Advanced Configuration](#advanced-configuration)
 10. [Production Deployment](#production-deployment)
 11. [Version & Status](#version--status)
-12. [Contact](#contact)
+
 
 ---
 
@@ -739,6 +739,3 @@ CMD ["python", "-m", "uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "
 
 ---
 
-## Contact
-
-For issues, feature requests, or contributions, please open an issue on GitHub or contact the development team.
